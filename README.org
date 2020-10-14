@@ -1,0 +1,56 @@
+#+TITLE: Large scale convex optimisation
+#+AUTHOR: Sebastian Banert
+#+DATE: November 2020 -- January 2021
+#+EMAIL: sebastian.banert@control...
+#+LANGUAGE: en
+
+* Contents
+  + Examples of convex problems
+  + Convex analysis, convex subdifferentials, separation of convex sets
+  + Subgradient method
+  + Conjugate functions
+  + Duality in convex optimisation
+  + Proximal operators and the Moreau envelope
+  + Proximal-gradient algorithms
+  + Chambolle--Pock (primal-dual hybrid gradient) algorithm
+
+* Literature
+  The course is not based on a single textbook. The following books
+  and articles cover the course contents and provide further material
+  for you if you want to know more about the topics.
+** Textbooks
+   + [[https://link.springer.com/book/10.1007/978-3-319-48311-5][H.H. Bauschke, P.L. Combettes: Convex Analysis and Monotone Operator Theory in Hilbert Spaces, Springer (2017)]]
+     
+     Convex analysis in (possibly infinite-dimensional) Hilbert
+     spaces, Fenchel duality and proximal algorithms.
+   + [[https://link.springer.com/book/10.1007%2F978-3-642-04900-2][R.I. Boț: Conjugate Duality in Convex Optimization, Springer (2010)]]
+     
+     Contains more general conditions which ensure strong duality.
+   + [[https://web.stanford.edu/~boyd/cvxbook/][S. Boyd, L. Vandenberghe: Convex Optimization, Cambridge University Press (2004)]]
+   + [[https://doi.org/10.1137/1.9781611971088][I. Ekeland, R. Témam: Convex Analysis and Variational Problems, SIAM Publications (1999)]]
+
+     Covers duality in locally convex spaces.
+   + [[https://link.springer.com/book/10.1007%2F978-3-319-91578-4][Y. Nesterov: Lectures on Convex Optimization, Springer (2018)]]
+   + [[https://sites.math.washington.edu/~rtr/papers/rtr025-ConvexAnalysis.djvu][R.T. Rockafellar: Convex Analysis, Princeton University Press (1970)]]
+
+     Probably still the best book on finite-dimensional convex analysis.
+   + [[https://sites.math.washington.edu/~rtr/papers/rtr054-ConjugateDuality.pdf][R.T. Rockafellar: Conjugate Duality and Optimization, SIAM Publications (1974)]]
+
+     Covers duality in locally convex spaces.
+   # + Something with the subgradient method?
+** Articles
+   + [[https://link.springer.com/article/10.1007/s10851-010-0251-1][A. Chambolle, Th. Pock: A First-Order Primal-Dual Algorithm for Convex Problems with Applications to Imaging, J. Math. Imaging Vis., 2011, vol. 40, pp. 120--145]]
+   + [[https://link.springer.com/chapter/10.1007/978-1-4419-9569-8_10][P.L. Combettes, J.-C. Pesquet: Proximal Splitting Methods in Signal Processing, in: Fixed-Point Algorithms for Inverse Problems in Science and Engineering, 2011, pp. 185--212]]
+   + [[https://link.springer.com/article/10.1007/s11228-011-0191-y][P.L. Combettes, J.-C. Pesquet: Primal-Dual Splitting Algorithm for Solving Inclusions with Mixtures of Composite, Lipschitzian, and Parallel-Sum Type Monotone Operators, Set-Valued Var. Anal., 2012, vol. 20, pp. 307--330]]
+   + [[http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=dan&paperid=46009&option_lang=eng][Yu. Nesterov: A method of solving a convex programming problem with convergence rate \(O(1/k^2\), Dokl. Akad. Nauk SSSR, 1983, vol. 269, no. 3, pp. 543--547]]
+   + [[https://link.springer.com/article/10.1007%2Fs10444-011-9254-8][B.C. Vũ: A splitting algorithm for dual monotone inclusions involving cocoercive operators, Adv. Comput. Math., 2013, vol. 38, pp.667--681]]
+* Lectures
+  Lectures will be pre-recorded and posted on YouTube. A link to the
+  playlist will be posted here.
+* Exercises
+  TBA
+* Hand-ins
+  TBA
+* Exam
+  There will be a final oral exam. The results of the hand-ins and the
+  exam will be combined. Possible outcomes are pass/fail.
