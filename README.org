@@ -14,6 +14,10 @@
   + Proximal-gradient algorithms
   + Chambolle--Pock (primal-dual hybrid gradient) algorithm
 
+* Exercises/Hand-ins
+  - [[exercises/ex1.pdf][Exercise 1]], to be sent in by Thu, 19 November, 10:00 CET.
+  - [[exercises/ex2.pdf][Exercise 2]], to be sent in by Thu, 26 November, 10:00 CET.
+
 * Literature
   The course is not based on a single textbook. The following books
   and articles cover the course contents and provide further material
@@ -44,10 +48,10 @@
    + [[https://link.springer.com/article/10.1007/s11228-011-0191-y][P.L. Combettes, J.-C. Pesquet: Primal-Dual Splitting Algorithm for Solving Inclusions with Mixtures of Composite, Lipschitzian, and Parallel-Sum Type Monotone Operators, Set-Valued Var. Anal., 2012, vol. 20, pp. 307--330]]
    + [[http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=dan&paperid=46009&option_lang=eng][Yu. Nesterov: A method of solving a convex programming problem with convergence rate \(O(1/k^2\), Dokl. Akad. Nauk SSSR, 1983, vol. 269, no. 3, pp. 543--547]]
    + [[https://link.springer.com/article/10.1007%2Fs10444-011-9254-8][B.C. Vũ: A splitting algorithm for dual monotone inclusions involving cocoercive operators, Adv. Comput. Math., 2013, vol. 38, pp.667--681]]
+
 * Lectures
   Lectures are pre-recorded and posted on YouTube. [[https://www.youtube.com/playlist?list=PLK8999LLfv8vABhiYsGq_gYCmrY0tpw4t][Link to the playlist on YouTube]].
-* Exercises/Hand-ins
-  - [[exercises/ex1.pdf][Exercise 1]], to be sent in by Thu, 19 November, 10:00 CET.
+
 * Exam
   There will be a final oral exam. The results of the hand-ins and the
   exam will be combined. Possible outcomes are pass/fail.
