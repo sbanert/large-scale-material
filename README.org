@@ -17,7 +17,8 @@
 * Exercises/Hand-ins
   - [[exercises/ex1.pdf][Exercise 1]]
   - [[exercises/ex2.pdf][Exercise 2]]
-  - [[exercises/ex3.pdf][Exercise 3]], to be sent in by Thu, 3 December, 10:00 CET.
+  - [[exercises/ex3.pdf][Exercise 3]]
+  - [[exercises/ex4.pdf][Exercise 4]], to be sent in by Thu, 10 December, 10:00 CET.
 
 * Literature
   The course is not based on a single textbook. The following books
