@@ -19,7 +19,9 @@
   - [[exercises/ex2.pdf][Exercise 2]]
   - [[exercises/ex3.pdf][Exercise 3]]
   - [[exercises/ex4.pdf][Exercise 4]]
-  - [[exercises/ex5.pdf][Exercise 5]], to be sent in by Wed, 16 December, 13:00 CET.
+  - [[exercises/ex5.pdf][Exercise 5]]
+  - [[exercises/ex6.pdf][Exercise 6]]
+  - [[exercises/ex7.pdf][Exercise 7]], to be sent in by Thu, 14 January, 10:00 CET.
 
 * Literature
   The course is not based on a single textbook. The following books
