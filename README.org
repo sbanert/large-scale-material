@@ -22,7 +22,7 @@
   - [[exercises/ex5.pdf][Exercise 5]]
   - [[exercises/ex6.pdf][Exercise 6]]
   - [[exercises/ex7.pdf][Exercise 7]]
-  - [[exercises/ex7.pdf][Exercise 8]], [[exercises/ex8-noisy.bmp][use this image]]
+  - [[exercises/ex8.pdf][Exercise 8]], [[exercises/ex8-noisy.bmp][use this image]]
 
 * Literature
   The course is not based on a single textbook. The following books
